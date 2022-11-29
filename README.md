@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer JavaScript
+### **Developer JavaScript**
 
 
 ## 🌐 Socials:
